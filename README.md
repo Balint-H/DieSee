@@ -2,7 +2,7 @@
 
 ![App screen image](example.PNG)
 
-Die face summing app, which uses connected component labelling and blob detection. Takes picture (without ios prompt), uses flash based on user preferance, and allows user to set threshold on detection to adjust for lighting/background conditions. 
+Die face summing app for iPhone, which uses connected component labelling and blob detection. Takes picture (without ios prompt), uses flash based on user preferance, and allows user to set threshold on detection to adjust for lighting/background conditions. 
 
 Developed using Pythonista
 
