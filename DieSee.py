@@ -21,7 +21,7 @@ class MyScene (Scene):
         self.background_color = '#445ea1'
         score_font = ('Futura', 60)
         self.score_label = LabelNode(str(score), score_font, parent=self)
-        self.image_show = SpriteNode('processed.jpg', scale=0.8, parent=self)
+        self.image_show = SpriteNode('processed.jpg', scale=0.3, parent=self)
         self.score_label.position = (self.size.w/4, self.size.h/3*2)
         self.image_show.z_position = 1
         self.image_show.position = (self.size.w/3*2, self.size.h/3*2)
