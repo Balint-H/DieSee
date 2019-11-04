@@ -1,0 +1,87 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {240, 240}}",
+        "class" : "View",
+        "attributes" : {
+          "class" : "View",
+          "frame" : "{{70, 70}, {100, 100}}",
+          "flex" : "WH",
+          "name" : "tappy",
+          "custom_class" : "SceneView",
+          "uuid" : "80760540-7F2B-4B58-B6F1-85F2DADC63E6"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{52, 146}, {51, 31}}",
+        "class" : "Switch",
+        "attributes" : {
+          "flex" : "WHLRTB",
+          "action" : "flash_switch",
+          "frame" : "{{95, 105}, {51, 31}}",
+          "class" : "Switch",
+          "uuid" : "6EB6B1A4-FC0B-46F5-A412-F5D445FD92D6",
+          "value" : false,
+          "name" : "switch"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{120, 143}, {81, 34}}",
+        "class" : "Slider",
+        "attributes" : {
+          "action" : "slider_func",
+          "flex" : "WHLRTB",
+          "continuous" : false,
+          "frame" : "{{20, 103}, {200, 34}}",
+          "uuid" : "D1ACE100-7300-4606-A4B1-A4181188E98C",
+          "class" : "Slider",
+          "value" : 0.5,
+          "name" : "slider"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{156, 176}, {47, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label",
+          "flex" : "WHLRTB",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "uuid" : "35FB3B61-7AC7-4A79-A7C5-7BF3568B3AFA",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "128",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {240, 240}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
