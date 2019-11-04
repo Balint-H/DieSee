@@ -1,4 +1,4 @@
-# DieSee (pronounce as dicey)
+# DieSee
 
 ![App screen image](example.PNG)
 
