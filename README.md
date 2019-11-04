@@ -4,6 +4,8 @@
 
 Die face summing app, which uses connected component labelling and blob detection. Takes picture (without ios prompt), uses flash based on user preferance, and allows user to set threshold on detection to adjust for lighting/background conditions. 
 
+Developed using Pythonista
+
 Uses connected component labelling from spwhitt:
 https://github.com/spwhitt/cclabel
 
